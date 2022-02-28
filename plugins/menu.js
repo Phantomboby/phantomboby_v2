@@ -10,18 +10,18 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+    r_text[0] = "https://i.imgur.com/d4DIca6.jpeg-wallpaper-HD-dowload.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ameer Suhail✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ꜰᴀꜱɪʟ✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
-            *Pikachu*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 ꜰᴀꜱɪʟ 𝐛𝐨𝐭.
+      *Ayishu-Mwol_V2*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -134,7 +134,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp pikachu
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Pikachu💢═════
+═════💢Ayishu-Mwol_V2💢═════
 ▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
