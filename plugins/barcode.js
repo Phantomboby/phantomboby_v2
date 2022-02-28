@@ -1,5 +1,5 @@
-/*coded by ameer-kallumthodi
-https://youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw
+/*coded by ꜰᴀꜱɪʟ
+https://youtube.com/c/AFTROLLSS
 */
 
 const Asena = require('../events');
@@ -17,7 +17,7 @@ if (Config.WORKTYPE == 'private') {
 
         var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/barcode_maker?text=${match[1]}`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by PIKACHU' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by Ayishu-Mwol_V2' })
 
     }));
 }
