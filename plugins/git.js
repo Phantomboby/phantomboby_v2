@@ -9,18 +9,18 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ᴀʏɪꜱʜᴜ-ᴍᴡᴏʟ_ᴠ2 bot created by ꜰᴀꜱɪʟ*
+*Creator number : wa.me/919947430792?text=Hi%20Ameer%20Suhail.%20*
 
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+*𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : https://youtube.com/c/AFTROLLSS* 
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
+*Githublink (Setup)  :    https://github.com/Ayishu74/Ayishu-Mwol_V2*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/Ayishu74/Ayishu-Mwol_V2/tree/master/uploads*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : https://github.com/Ayishu74/Ayishu-Mwol_V2/tree/master/uploads*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
+*𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : https://youtube.com/c/AFTROLLSS* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
