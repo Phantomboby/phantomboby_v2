@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ayishu35/Ayishu-Mwol_V2">Fasil</a> to make it public
+Project created by <a href="https://github.com/Ayisha74/Ayishu-Mwol_V2">Fasil</a> to make it public
     <br>
        | © |
         Reserved |
@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/Ayishu35/Ayishu-Mwol_V2">Fasil</a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasil&show_icons=true&theme=dark&locale=en" alt="Fasil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fasil&theme=dark" alt="Ayishu35" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fasil&theme=dark" alt="Ayisha74" /></p>
 </p>
 
 
@@ -60,9 +60,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/Pikachu-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
      </div>
 <br>
 <br >
@@ -82,7 +82,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Ayishu35/Ayishu-Mwol_V2
+$ git clone https://github.com/Ayisha74/Ayishu-Mwol_V2
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -92,7 +92,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ayishu35/Ayishu-Mwol_V2
+$ git clone https://github.com/Ayisha74/Ayishu-Mwol_V2
 $ cd pikachu
 $ chmod +x *
 $ npm i
@@ -113,9 +113,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![fasil](https://github.com/fasil.png?size=100)](https://github.com/ayishu35) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![fasil](https://github.com/fasil.png?size=100)](https://github.com/Ayisha74) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/Ayishu35) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/Ayisha74) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
