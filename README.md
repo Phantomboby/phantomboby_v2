@@ -1,17 +1,24 @@
-## Thanks for Everything
-### We will always remember you..
+<a href="https://bit.ly/3koZRGY"><img src="https://i.imgur.com/d4DIca6.jpeg" alt="google-font" border="0"></a>
+<div align="center">
+        <img src="https://i.imgur.com/d4DIca6.jpeg" alt="GIF" width="250" height="200"/>
+</p>
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/d4DIca6.jpeg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="ᴀʏɪꜱʜᴜᴍᴏʟ" src="https://img.shields.io/badge/Ayishubot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+## [![Ayishu Mwol_V2](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+ᴀʏɪꜱʜᴜ+ᴍᴡᴏʟ+_ᴠ2+WA+Bot+repo;Created+by+ꜰᴀꜱɪʟ;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+
+ </a>
+</p>
+<div align="center">
+ <p align="center">
+<a href="#"><img title="FASIL" src="https://img.shields.io/badge/FASIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv"><img title="join support" src="https://img.shields.io/badge/join_support-Ayishubot/AYISHUMOL?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Fasil"><img title="Author" src="https://img.shields.io/badge/Author-Fasil/Ayishu Mwol_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ayishubot">AYISHUMOL</a> to make it public
+Project created by <a href="https://github.com/Ayishu35/Ayishu-Mwol_V2">Fasil</a> to make it public
     <br>
        | © |
         Reserved |
@@ -20,125 +27,109 @@ Project created by <a href="https://github.com/Ayishubot">AYISHUMOL</a> to make 
 
 ----
 
-  <p align="center">
-  <a href="https://github.com/Ayishubot/AYISHUMOL ">
-    <img src="https://img.shields.io/github/repo-size/Ayishubot/AYISHUMOL?color=green&label=Repo%20total%20size&style=plastic">
+<h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://github.com/Ayishubot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ayishubot?color=red&style=flat-circle"></a>
-<a href="https://github.com/Ayishubot/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ayishubot/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/Ayishubot/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ayishubot/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/Ayishubot/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ayishubot/lastpink?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-
-```
+<a href="https://instagram.com/_aftrolls?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h4 align="center">Support For Bot Owner Channel 👇:</h4>
+<p align="center">
+<a href="https://youtube.com/c/AFTROLLSS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+</p>
   
-Ayishumol - Ayishumol Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
+
+<p align="center">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasil&show_icons=true&theme=dark&locale=en" alt="Fasil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fasil&theme=dark" alt="Ayishu35" /></p>
+</p>
 
 
+##
+  <h3 align="center">📢 Support Group 1:</h3>
+<p align="center">
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
+
+    
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Ayishubot/AyishumolMwol-QR)
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/Ayishubot/f34ed6b03429ba67d46c709f841f69f4)   
- 
-  </div>
- 
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/Pikachu-QR)
+
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+     </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+ 
+<div align="center">
 
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ 
+ <div align="left">
+  
+  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+```bash <(curl -L https://t.ly/tHxh)```
             
-### NO ERROR DEPLOY
-            
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/Ayishu35/Ayishu-Mwol_V2
+$ cd pikachu
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
 ```
-  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
+      
+```js
+SETUP
+$ git clone https://github.com/Ayishu35/Ayishu-Mwol_V2
+$ cd pikachu
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 ```
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
+Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, Pikachu executives do not accept responsibility.
+By establishing the Pikachu, you are deemed to have accepted these responsibilities.
 ```
-  
+
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Ayishubot](https://github.com/Ayishubot.png?size=100)](https://github.com/Ayishubot) 
+  [![fasil](https://github.com/fasil.png?size=100)](https://github.com/ayishu35) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [Ayishubot](https://github.com/Ayishubot)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[Ameer Suhail](https://github.com/Ayishu35) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
-
+## Contributors
+`Ameer Suhail`
+`Afnanplk`
+`Cyberchekuthan`
+`Farhan-Dqz`
+`Saidalisaid`
+`Souravkl11`
+        
+        
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-  
-### thanks for your help and support guys
-    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
-
-### when forking  
-```
-add your own heroku button
-  
-  example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
-  
-  change it into your repo link
-```
-  
-```
- If you want add bgm (voice auto reply),sticker (auto reply)
-
- create 3 files name them bgmone,bgmtwo,stick
- upload your mp3/sticker to created folder
-
- open plugins/filter.js , change path    
-     for bgm one 
-        change line 133 in filter.js to 
-
-          await message.client.sendMessage(message.jid, fs.readFileSync('./bgmone/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true}) //dont forget to add in const array ['mp3 name']
-    
-     for bgm two
-        change line 165 in filter.js into
-
-          await message.client.sendMessage(message.jid, fs.readFileSync('./bgmtwo/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})  //dont forget to add in const array ['mp3 name']
-
-    for sticker
-        change line 193 in filter.js
-
-          await message.client.sendMessage(message.jid, fs.readFileSync('./stick/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})  //dont forget to add in const array ['sticker name']
-```
