@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Ayishu-Mwol_V2 Bot created by *Fasil*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Ayishu-Mwol_V2 Bot created by *Fazil*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
