@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pikachu
+⚠️ex  attp Ayisha 
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢Ayishu-Mwol_V2💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣▣▣Fasilayisha▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
