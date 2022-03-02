@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________*Ayishu-Mwol_V2 ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:*https://youtube.com/c/AFTROLLSS\n Report errors\njoin with +91 \n https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/AFTROLLSS \n Report errors\njoin with +91 \n https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv``` ' 
                                     , MessageType.text);
                             }
                         }
